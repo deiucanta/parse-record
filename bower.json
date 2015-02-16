@@ -1,0 +1,22 @@
+{
+  "name": "parse-record",
+  "version": "0.1.0",
+  "authors": [
+    "Andrei Canta"
+  ],
+  "description": "Nice Angular wrapper for Parse models",
+  "main": "parse-record.js",
+  "keywords": [
+    "angular",
+    "parse",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

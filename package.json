@@ -1,0 +1,30 @@
+{
+  "name": "parse-record",
+  "version": "0.1.0",
+  "description": "Nice Angular wrapper for Parse models",
+  "main": "parse-record.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Not yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deiucanta/parse-record.git"
+  },
+  "keywords": [
+    "angular",
+    "parse",
+    "wrapper"
+  ],
+  "author": "Andrei Canta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deiucanta/parse-record/issues"
+  },
+  "homepage": "https://github.com/deiucanta/parse-record"
+}
