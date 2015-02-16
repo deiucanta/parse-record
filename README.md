@@ -30,7 +30,7 @@ app.factory('ProductService', function(ParseRecord) {
     'discount'
   ], {
     // instance methods
-    calculateTaxes: function() {
+    priceWithTaxes: function() {
       return this.price * 1.20;
     }
   }, {
